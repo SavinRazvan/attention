@@ -1,4 +1,4 @@
-# Attention Visualization with BERT
+# Attention
 
 This project demonstrates how to visualize the attention mechanism of a pre-trained BERT model. The script allows users to input text with a mask token, retrieves top predictions for the mask token, and generates attention diagrams showing the attention weights across different layers and heads.
 
