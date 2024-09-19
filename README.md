@@ -58,6 +58,5 @@ Top Predictions:
 ## License
 
 This project is licensed under the MIT License.
-```
 
-For further details and updates, you can refer to the [CS50 AI course page](https://cs50.harvard.edu/ai/2024/projects/6/attention/).
+> For further details and updates, you can refer to the [CS50 AI course page](https://cs50.harvard.edu/ai/2024/projects/6/attention/).
